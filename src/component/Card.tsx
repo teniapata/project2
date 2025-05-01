@@ -6,7 +6,7 @@ const card = () => {
     <div className=" bg-yellow-300 justify-center items-center flex w-[750px] shadow-2xl h-[500px] ">
       <div className=" card bg-white w-[230px] shrink-0  solid black 0px 0px 10000px]  h-[305px] p-3 border-[1px] border-black  rounded-[16px] font-bold  ">
         <img
-          src="/public/illustration-article.svg"
+          src="/illustration-article.svg"
           alt=""
           className=" rounded-[10px]  "
         />
@@ -24,7 +24,7 @@ const card = () => {
           content, and presentattion.
         </p>
         <div className=" flex pt-3 gap-1.5">
-          <img src="/public/image-avatar.webp" alt="" className="size-6 " />
+          <img src="/image-avatar.webp" alt="" className="size-6 " />
           <p  className="  text-black text-[9px] p-1 ">Greg Hooper</p>
         </div>
       </div>
